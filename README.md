@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Test README for Git Command Practice
-
-#This Repo Was Created From Local System
 
 ## Overview
 
