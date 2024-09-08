@@ -1,5 +1,11 @@
 # Test README for Git Command Practice
 
+<<<<<<< HEAD
+=======
+#This Repo Was Created From Local System
+#BugFix
+
+>>>>>>> Bugfix
 ## Overview
 
 This README file is created as a test to practice using Git commands. The objective is to explore Git's version control capabilities through hands-on learning by committing changes, branching, merging, and pushing code to a repository. By the end of this exercise, you'll be familiar with basic and some advanced Git commands.
