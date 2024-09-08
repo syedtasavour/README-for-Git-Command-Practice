@@ -1,6 +1,5 @@
 # Test README for Git Command Practice
 
-<<<<<<< HEAD
 =======
 
 ## Overview
